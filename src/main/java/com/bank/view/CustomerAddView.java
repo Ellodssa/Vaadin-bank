@@ -85,7 +85,7 @@ public class CustomerAddView extends VerticalLayout {
         try {
             Gson gson = new GsonBuilder().setPrettyPrinting().create();
             String json = gson.toJson(Creator.getBank());
-            writer = new FileWriter("C://TMP/NewBankOut.json");
+            writer = new FileWriter("src//main//resources//data//NewBankOut.json");
             writer.write(json);
             writer.flush();
         } catch (IOException e) {
