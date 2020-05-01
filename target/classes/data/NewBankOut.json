@@ -103,6 +103,17 @@
           "option": 500.0
         }
       ]
+    },
+    {
+      "FirstName": "ilf",
+      "LastName": "petrov",
+      "savingAcc": [
+        {
+          "balance": 1452.0,
+          "option": 121.0
+        }
+      ],
+      "checkingAcc": []
     }
   ]
 }

@@ -10,8 +10,9 @@ public class Creator {
     static Bank bank;
 
     public void createBank() throws Exception {
-        FileReader reader = new FileReader("src//main//resources//data//NewBankOut.json");
-        bank = new Gson().fromJson(reader, Bank.class);
+        //FileReader reader = new FileReader("src//main//resources//data//NewBankOut.json");
+        //bank = new Gson().fromJson(reader, Bank.class);
+        bank = new Bank();
 
 //        Gson gson = new GsonBuilder().setPrettyPrinting().create();
 //        String json = gson.toJson(bank);

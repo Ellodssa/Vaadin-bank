@@ -1,7 +1,7 @@
 {
   "compatibilityMode": false,
-  "productionMode": false,
-  "npmFolder": "G:\\MODS\\RODKEVICh_EKZAMEN\\vaadinbank\\vaadinbank",
-  "generatedFolder": "G:\\MODS\\RODKEVICh_EKZAMEN\\vaadinbank\\vaadinbank\\target\\frontend",
-  "frontendFolder": "G:\\MODS\\RODKEVICh_EKZAMEN\\vaadinbank\\vaadinbank\\frontend"
+  "productionMode": true,
+  "npmFolder": "C:\\vaadinbank",
+  "generatedFolder": "C:\\vaadinbank\\target\\frontend",
+  "frontendFolder": "C:\\vaadinbank\\frontend"
 }
